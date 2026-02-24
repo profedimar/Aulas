@@ -4,25 +4,38 @@
    - Redundância de Dados [[vídeo]](https://youtu.be/LQmStRfX4o8) [[slides]](https://github.com/profedimar/Aulas/blob/main/slides/banco%20de%20dados/Aula01_video01_redundancia.pdf)
    - Sistemas de Banco de Dados [[vídeo]](https://youtu.be/kWZosIWEsfM) [[slides]](https://github.com/profedimar/Aulas/blob/main/slides/banco%20de%20dados/Aula01_video02_sistemabd.pdf)
 - Modelo Entidade-Relacionamento
-  - Entidades [[vídeo]](https://youtu.be/mvHheeUFHWc)
-  - Relacionamentos [[vídeo]](https://youtu.be/M0kXoc424XQ)
-  - Atributos [[vídeo]](https://youtu.be/FDUzBhzw5_4)
+  - Entidades [[vídeo]](https://youtu.be/mvHheeUFHWc) [[slides]](https://github.com/profedimar/Aulas/blob/main/slides/banco%20de%20dados/Aula02_video01_mer_entidades.pdf)
+  - Relacionamentos [[vídeo]](https://youtu.be/M0kXoc424XQ) [[slides]](https://github.com/profedimar/Aulas/blob/main/slides/banco%20de%20dados/Aula02_video02_mer_relacionamentos.pdf)
+  - Atributos [[vídeo]](https://youtu.be/FDUzBhzw5_4) [[slides]](https://github.com/profedimar/Aulas/blob/main/slides/banco%20de%20dados/Aula02_video03_mer_atributos.pdf)
   - Classificação dos relacionamentos
-    - Quanto ao grau [[vídeo]](https://youtu.be/ILsFGRA4KT0)
-    - Quanto à cardinalidade máxima [[vídeo]](https://youtu.be/4KA3lzIdDpE)
-    - Outras classificações [[vídeo]](https://youtu.be/vuBuqDG09NY)
+    - Quanto ao grau [[vídeo]](https://youtu.be/ILsFGRA4KT0)  [[slides]](https://github.com/profedimar/Aulas/blob/main/slides/banco%20de%20dados/Aula03_video01_mer_relacionamento_grau.pdf)
+    - Quanto à cardinalidade máxima [[vídeo]](https://youtu.be/4KA3lzIdDpE)  [[slides]](https://github.com/profedimar/Aulas/blob/main/slides/banco%20de%20dados/Aula03_video02_mer_relacionamento_cardinalidade.pdf)
+    - Outras classificações [[vídeo]](https://youtu.be/vuBuqDG09NY)  [[slides]](https://github.com/profedimar/Aulas/blob/main/slides/banco%20de%20dados/Aula03_video03_mer_relacionamento_outras.pdf)
+  - Generalização/Especialização [[vídeo]]() [[slides]](https://github.com/profedimar/Aulas/blob/main/slides/banco%20de%20dados/Aula03_video04_mer_especializacao.pdf)
+  - Critérios para a construção de modelos ER [[vídeo]]() [[slides]](https://github.com/profedimar/Aulas/blob/main/slides/banco%20de%20dados/Aula03_video06_mer_criterios.pdf)
+  - Verificação do Modelo [[vídeo]]() [[slides]](https://github.com/profedimar/Aulas/blob/main/slides/banco%20de%20dados/Aula03_video07_mer_verificacao.pdf)
+  - Modelagem do Aspecto Temporal [[vídeo]]() [[slides]](https://github.com/profedimar/Aulas/blob/main/slides/banco%20de%20dados/Aula03_video05_mer_tempo.pdf)
 - Modelo Relacional
-  - Introdução [[vídeo]](https://youtu.be/CenR0CyDf0w)
-  - Mapeamento entre modelos [[vídeo]](https://youtu.be/UhRrWbsX5jc)
+  - Introdução [[vídeo]](https://youtu.be/CenR0CyDf0w)  [[slides]](https://github.com/profedimar/Aulas/blob/main/slides/banco%20de%20dados/Aula04_video01_modelo_relacional.pdf)
+  - Mapeamento entre modelos [[vídeo]](https://youtu.be/UhRrWbsX5jc)  [[slides]](https://github.com/profedimar/Aulas/blob/main/slides/banco%20de%20dados/Aula04_video02_mapeamento.pdf)
+  - Mapeamento entre modelos: especializações [[vídeo]]()  [[slides]](https://github.com/profedimar/Aulas/blob/main/slides/banco%20de%20dados/Aula05_video01_mapeamento_especializa%C3%A7%C3%B5es.pdf)
+  - Outros mapeamentos entre modelos [[vídeo]]()  [[slides]](https://github.com/profedimar/Aulas/blob/main/slides/banco%20de%20dados/Aula05_video02_mapeamento_diversos.pdf)
+- Formas Normais
+  - Diretrizes para um bom projeto de banco de dados relacional [[vídeo]]()  [[slides]](https://github.com/profedimar/Aulas/blob/main/slides/banco%20de%20dados/Aula06_video01_diretrizes_informais.pdf)
+  - Dependências Funcionais [[vídeo]]()  [[slides]](https://github.com/profedimar/Aulas/blob/main/slides/banco%20de%20dados/Aula06_video02_dependencias_funcionais.pdf)
+  - Formas normais [[vídeo]]()  [[slides]](https://github.com/profedimar/Aulas/blob/main/slides/banco%20de%20dados/Aula06_video03_formas_normais.pdf)
 - SQL
   - DDL
-    - Criação de tabelas em SQL [[vídeo]](https://youtu.be/jyuZxekynzA)
-    - Criação de tabelas no PostgreSQL [[vídeo]](https://youtu.be/u9UaMBoZ3g0)
-    - Criação de tabelas com chave estrangeira [[vídeo]](https://youtu.be/HvhtGcExnz8)
+    - Criação de tabelas em SQL [[vídeo]](https://youtu.be/jyuZxekynzA)  [[slides]] ()
+    - Criação de tabelas no PostgreSQL [[vídeo]](https://youtu.be/u9UaMBoZ3g0)  [[slides]] ()
+    - Criação de tabelas com chave estrangeira [[vídeo]](https://youtu.be/HvhtGcExnz8)  [[slides]] ()
   - DML
-    - Introdução [[vídeo]](https://youtu.be/ut5I8f8Of7w)
-    - Operadores de comparação [[vídeo]](https://youtu.be/L3gno2raa1E)
-    - Operadores lógicos [[vídeo]](https://youtu.be/YpR8hpqZM2M)
+    - Introdução [[vídeo]](https://youtu.be/ut5I8f8Of7w)  [[slides]] ()
+    - Operadores de comparação [[vídeo]](https://youtu.be/L3gno2raa1E)  [[slides]] ()
+    - Operadores lógicos [[vídeo]](https://youtu.be/YpR8hpqZM2M)  [[slides]] ()
   - DQL
-    - Introdução [[vídeo]](https://youtu.be/zyaGDaPNI14)
+    - Introdução [[vídeo]](https://youtu.be/zyaGDaPNI14)  [[slides]] ()
+  - DCL
+    - Usuário e papéis [[vídeo]]()  [[slides]] ()
+    - Privilégios de acesso [[vídeo]]()  [[slides]] ()
 
