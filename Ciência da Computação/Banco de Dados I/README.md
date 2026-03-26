@@ -18,8 +18,8 @@
 - Modelo Relacional
   - Introdução [[vídeo]](https://youtu.be/CenR0CyDf0w)  [[slides]](https://github.com/profedimar/Aulas/blob/main/slides/banco%20de%20dados/Aula04_video01_modelo_relacional.pdf)
   - Mapeamento entre modelos [[vídeo]](https://youtu.be/UhRrWbsX5jc)  [[slides]](https://github.com/profedimar/Aulas/blob/main/slides/banco%20de%20dados/Aula04_video02_mapeamento.pdf)
-  - Mapeamento entre modelos: especializações [[vídeo]]()  [[slides]](https://github.com/profedimar/Aulas/blob/main/slides/banco%20de%20dados/Aula05_video01_mapeamento_especializa%C3%A7%C3%B5es.pdf)
-  - Outros mapeamentos entre modelos [[vídeo]]()  [[slides]](https://github.com/profedimar/Aulas/blob/main/slides/banco%20de%20dados/Aula05_video02_mapeamento_diversos.pdf)
+  - Mapeamento entre modelos: especializações [[slides]](https://github.com/profedimar/Aulas/blob/main/slides/banco%20de%20dados/Aula05_video01_mapeamento_especializa%C3%A7%C3%B5es.pdf)
+  - Outros mapeamentos entre modelos [[slides]](https://github.com/profedimar/Aulas/blob/main/slides/banco%20de%20dados/Aula05_video02_mapeamento_diversos.pdf)
 - Formas Normais
   - Diretrizes para um bom projeto de banco de dados relacional [[vídeo]]()  [[slides]](https://github.com/profedimar/Aulas/blob/main/slides/banco%20de%20dados/Aula06_video01_diretrizes_informais.pdf)
   - Dependências Funcionais [[vídeo]]()  [[slides]](https://github.com/profedimar/Aulas/blob/main/slides/banco%20de%20dados/Aula06_video02_dependencias_funcionais.pdf)
