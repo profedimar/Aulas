@@ -25,16 +25,19 @@
   - Dependências Funcionais [[vídeo]]()  [[slides]](https://github.com/profedimar/Aulas/blob/main/slides/banco%20de%20dados/Aula06_video02_dependencias_funcionais.pdf)
   - Formas normais [[vídeo]]()  [[slides]](https://github.com/profedimar/Aulas/blob/main/slides/banco%20de%20dados/Aula06_video03_formas_normais.pdf)
 - SQL
+  - Introdução à linguagem SQL [[vídeo]]() [[slides]](https://github.com/profedimar/Aulas/blob/main/slides/banco%20de%20dados/Aula08_video01_Introdu%C3%A7%C3%A3o%20ao%20SQL.pdf)
   - DDL
-    - Criação de tabelas em SQL [[vídeo]](https://youtu.be/jyuZxekynzA)  [[slides]] ()
-    - Criação de tabelas no PostgreSQL [[vídeo]](https://youtu.be/u9UaMBoZ3g0)  [[slides]] ()
-    - Criação de tabelas com chave estrangeira [[vídeo]](https://youtu.be/HvhtGcExnz8)  [[slides]] ()
+    - Criação de tabelas em SQL [[vídeo]](https://youtu.be/jyuZxekynzA)  [[slides]] (https://github.com/profedimar/Aulas/blob/main/slides/banco%20de%20dados/Aula08_video02_DDL_create.pdf)
+    - Criação de tabelas no PostgreSQL [[vídeo]](https://youtu.be/u9UaMBoZ3g0)  
+    - Criação de tabelas com chave estrangeira [[vídeo]](https://youtu.be/HvhtGcExnz8)  [[slides]] (https://github.com/profedimar/Aulas/blob/main/slides/banco%20de%20dados/Aula08_video03_DDL_create_fk.pdf)
   - DML
-    - Introdução [[vídeo]](https://youtu.be/ut5I8f8Of7w)  [[slides]] ()
-    - Operadores de comparação [[vídeo]](https://youtu.be/L3gno2raa1E)  [[slides]] ()
-    - Operadores lógicos [[vídeo]](https://youtu.be/YpR8hpqZM2M)  [[slides]] ()
+    - Introdução [[vídeo]](https://youtu.be/ut5I8f8Of7w)  [[slides]] (https://github.com/profedimar/Aulas/blob/main/slides/banco%20de%20dados/Aula09_video01_DML.pdf)
+    - Operadores de comparação [[vídeo]](https://youtu.be/L3gno2raa1E)  [[slides]] (https://github.com/profedimar/Aulas/blob/main/slides/banco%20de%20dados/Aula09_video02_operadores_comparacao.pdf)
+    - Operadores lógicos [[vídeo]](https://youtu.be/YpR8hpqZM2M)  [[slides]] (https://github.com/profedimar/Aulas/blob/main/slides/banco%20de%20dados/Aula09_video03_operadores_logicos.pdf)
   - DQL
-    - Introdução [[vídeo]](https://youtu.be/zyaGDaPNI14)  [[slides]] ()
+    - Consultas básicas [[vídeo]](https://youtu.be/zyaGDaPNI14)  [[slides]] (https://github.com/profedimar/Aulas/blob/main/slides/banco%20de%20dados/Aula10_video01_DQL.pdf)
+    - Junções
+    - Consultas com agrupamento [[vídeo]]() [[slides]](https://github.com/profedimar/Aulas/blob/main/slides/banco%20de%20dados/Aula11_video01_DQL%20-%20agrupamentos.pdf)
   - DCL
     - Usuário e papéis [[vídeo]]()  [[slides]] ()
     - Privilégios de acesso [[vídeo]]()  [[slides]] ()
