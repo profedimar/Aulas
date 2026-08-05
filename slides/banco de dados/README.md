@@ -1,1 +1,1 @@
-Slides das disciplinas de banco de dados.
+Slides da disciplina de Banco de Dados I.
